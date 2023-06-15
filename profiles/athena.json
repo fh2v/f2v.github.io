@@ -1,0 +1,3363 @@
+{
+    "changeType": "fullProfileUpdate",
+    "profile": {
+        "_id": "",
+        "created": "9999-12-31T23:59:59.999Z",
+        "updated": "9999-12-31T23:59:59.999Z",
+        "rvn": 1,
+        "wipeNumber": 0,
+        "accountId": "",
+        "profileId": "athena",
+        "version": "",
+        "items": {
+            "CosmeticLocker:cosmeticlocker_athena": {
+                "templateId": "CosmeticLocker:cosmeticlocker_athena",
+                "attributes": {
+                    "locker_slots_data": {
+                        "slots": {
+                            "Pickaxe": {
+                                "items": [
+                                    ""
+                                ],
+                                "activeVariants": [
+                                    {
+                                        "variants": []
+                                    }
+                                ]
+                            },
+                            "Dance": {
+                                "items": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "activeVariants": [
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    }
+                                ]
+                            },
+                            "Glider": {
+                                "items": [
+                                    ""
+                                ],
+                                "activeVariants": [
+                                    {
+                                        "variants": []
+                                    }
+                                ]
+                            },
+                            "Character": {
+                                "items": [
+                                    ""
+                                ],
+                                "activeVariants": [
+                                    {
+                                        "variants": []
+                                    }
+                                ]
+                            },
+                            "Backpack": {
+                                "items": [
+                                    ""
+                                ],
+                                "activeVariants": [
+                                    {
+                                        "variants": []
+                                    }
+                                ]
+                            },
+                            "ItemWrap": {
+                                "items": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "activeVariants": [
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    },
+                                    {
+                                        "variants": []
+                                    }
+                                ]
+                            },
+                            "LoadingScreen": {
+                                "items": [
+                                    ""
+                                ],
+                                "activeVariants": [
+                                    {
+                                        "variants": []
+                                    }
+                                ]
+                            },
+                            "MusicPack": {
+                                "items": [
+                                    ""
+                                ],
+                                "activeVariants": [
+                                    {
+                                        "variants": []
+                                    }
+                                ]
+                            },
+                            "SkyDiveContrail": {
+                                "items": [
+                                    ""
+                                ],
+                                "activeVariants": [
+                                    {
+                                        "variants": []
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "quantity": 1
+            }
+        },
+        "stats": {
+            "attributes": {
+                "loadouts": [
+                    "CosmeticLocker:cosmeticlocker_athena"
+                ],
+                "level": 100,
+                "accountLevel": 100,
+                "last_applied_loadout": "CosmeticLocker:cosmeticlocker_athena",
+                "book_level": 100,
+                "season_num": 24,
+                "battlestars": 1000000,
+                "battlestars_season_total": 1000000,
+                "style_points": 1000000,
+                "alien_style_points": 1000000,
+                "book_purchased": true,
+                "purchased_battle_pass_tier_offers": {},
+                "purchased_bp_offers": [
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Inferno2",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Inferno2",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "64CBF6BC48B0A148BD080EAB42C7BF94",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "9548B5DC4D155FD13811989ECC318285",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "HomebaseBannerIcon:BRS24_Inferno",
+                                "itemProfile": "common_core",
+                                "itemType": "HomebaseBannerIcon:BRS24_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "EAA9B32C4D6A4EA20F8C9E809D0BBE5D",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_Inferno",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "1D8836D3425CA3AA41C424AD08C91596",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_Inferno",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "5EB1F2284CC888BEE6E08696400EB699",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_Inferno",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "5EC565774EB063BF1A45E394F2D41683",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Emoji_S24_Inferno",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Emoji_S24_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "F92586A84BCB64E1DE7B3082990E76BD",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Inferno",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "960673DF4F0FAA6CBD2165B2E1AD49ED",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Inferno1",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Inferno1",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "8827910942A882846D6FC98CBBDE177F",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_Inferno",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "EAAE8FBB435F4CF30A4E1F9F26788F60",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_Inferno",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "0EF680FA4A75794D705C06882399F50F",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "2BB6FCF942C78E6B5DADA987FE533528",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Inferno",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "8735FE214437A4793423C6B2DD1D119B",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaSkyDiveContrail:Contrail_Inferno",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaSkyDiveContrail:Contrail_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "6917F69648AD802753073B813FF5D998",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Inferno",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Inferno",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "9F078F634CC7C8835EB85EA0425E4BB5",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_DazzleChilling",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_DazzleChilling",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "070A74CF43F4A152A2130287F557DD17",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "HomebaseBannerIcon:BRS24_Dazzle",
+                                "itemProfile": "common_core",
+                                "itemType": "HomebaseBannerIcon:BRS24_Dazzle",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7C162473437202E2D09995885D542C08",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_Dazzle",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_Dazzle",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "6E118DF14949004CB247898FB6DF6C9A",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "273231B54105FC90603B959FA2C47763",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_Dazzle",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_Dazzle",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "699765E24A023593B8410097AD536309",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_DazzleV2",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_DazzleV2",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "3F2DCE9B4213632465209588C4D90C67",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Dazzle",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Dazzle",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "4C346BC4490702773E294A8BC3C1BDEF",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_DazzleCity",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_DazzleCity",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "8216B4A7498E58200F2848BE9D3C1BBA",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_Dazzle_Cat",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_Dazzle_Cat",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "78FA09274E5978AFAA65E6BCD31E4912",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "A58A3DFC4E70794156AB769F7488A3CD",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_Dazzle",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_Dazzle",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "0E7340A143923B764AEC959C6A3019FF",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaMusicPack:MusicPack_175_Dazzle",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaMusicPack:MusicPack_175_Dazzle",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "945A8F2D44B3CC8B9AFBB992B3C5E109",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Dazzle",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Dazzle",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "FE766AAF435DC3BBD10FF9A7B5B1328E",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Dazzle",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Dazzle",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "C49FFB544CA0A41B43714E9BC9E7357E",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_LocalZilla_Motorcycle",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_LocalZilla_Motorcycle",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "0A74945C4F257820A0FB0BB8B650AB5A",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_LocalZilla_Name",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_LocalZilla_Name",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "61DDFEBC43A9CE419D2CA893B53A5792",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_LocalZilla",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_LocalZilla",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "178DCCA4450B3DBD3511809FCFA71526",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Emoji_S24_LocalZilla",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Emoji_S24_LocalZilla",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "4D9A88D3470C0958350D2AAF64E749B5",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_LocalZillaNight",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_LocalZillaNight",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "F14C0EFF402E363B825409A99736C31D",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "F529E1F349CE357FD692E195963D3EFD",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_LocalZilla",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_LocalZilla",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "90FCF97A44542484B01A27B91E2E55C1",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_LocalZilla_Food",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_LocalZilla_Food",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "A9581320498922863CC20C878A47467D",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_LocalZilla",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_LocalZilla",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "8CBA47E14385E6777D7AA08415F886A4",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "7A02BAEA40DF503881A6E499932BE980",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_LocalZilla",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_LocalZilla",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "C2970D8E431D6E055CCC6D8B6A31487D",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_LocalZilla_Blue",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_LocalZilla_Blue",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "EB895B5E4CFE890F6170A2B748E0AA98",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaMusicPack:MusicPack_174_LocalZilla",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaMusicPack:MusicPack_174_LocalZilla",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "82E232AD4118F75544A3DE926637372D",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_LocalZilla",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_LocalZilla",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7C7015DA4F31B586CFCAC4BBF6DD2657",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Nebula_Underwater",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Nebula_Underwater",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "0CC75AC24BE7F5CB8F97A6B49F7020AF",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Emoji_S24_Nebula",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Emoji_S24_Nebula",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "89701C7B440EF5E6C4550AA7262C1157",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_Nebula",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_Nebula",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "16A10A014074014CB648DAB67F831F38",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "06D1A8CF4B0FC8BB1F7DBC884E572639",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Nebula",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Nebula",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7DF5E3EB4B8741821F8098A04C27C6D1",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_Nebula",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_Nebula",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "4C45F2224C2ED64EB76A40B9FA237ABC",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Nebula",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Nebula",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "A98412594A57C4F746EE28A7A37C1696",
+                        "purchaseDate": "2023-04-30T10:55:52.703Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Nebula_Standing",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Nebula_Standing",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7091DA4945E71B3367A169BD37D25222",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "48D3100F4B1ABE50233090A0169F6DA2",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaSkyDiveContrail:Contrail_Nebula",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaSkyDiveContrail:Contrail_Nebula",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "071A774649DA1CC5E59030BB256D615F",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_NebulaV2",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_NebulaV2",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "B9452B7844A98B299068058D8C730B04",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_Nebula",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_Nebula",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "9AB6FF4A48BA63D1CB2EFABB63657B5E",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "HomebaseBannerIcon:BRS24_Nebula",
+                                "itemProfile": "common_core",
+                                "itemType": "HomebaseBannerIcon:BRS24_Nebula",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "6635D16A48C4C972D3F6A8810EC0A323",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Nebula",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Nebula",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "50CC9C474A241B3C55B71EB03C173B65",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_EbonyCity",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_EbonyCity",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "259FBA5B43B0E9C412F56A948E897409",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Ebony",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Ebony",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "E05F5B8D41DB74E1D28A8B963D9F05A1",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_Ebony",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_Ebony",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "68F814B64E49E6EBFD0FE29024472E7E",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "C230DA4141CC44D16EDA16B128D2AEB9",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_Ebony",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_Ebony",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "679815684A530B29102A309B9F184E1F",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_Ebony",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_Ebony",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "C6446D5B43D870F303CEAEA8AEDA1982",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Ebony",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Ebony",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "E89803A448271FD03D46B3A6B6B54E49",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Ebony2",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Ebony2",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7783214D4D901B7179A058AA2D58C807",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_Ebony",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_Ebony",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "F8FFAE9D4460BE0CBE89649417AF4D8B",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "C0B9E01E4986AD47D5EE2B9B8F439F8C",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "HomebaseBannerIcon:BRS24_Ebony",
+                                "itemProfile": "common_core",
+                                "itemType": "HomebaseBannerIcon:BRS24_Ebony",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "DE8A06B34CC05BE91ECE74BB381EFF22",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "D715525E4AFA56A56952CBB655E69A5E",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_Ebony",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_Ebony",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "F5AB6AA04758EE56BF468594905EDDAB",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Ebony",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Ebony",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "44A5F68B465FA22D9D85C3AF58DA90CA",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_VitalPsych_Battle",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_VitalPsych_Battle",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "C4A58CCD4E77E217E0B1F2A88EB6748C",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_VitalPsych_Hop",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_VitalPsych_Hop",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "A449A23D4F640C800E8E33B1386B8214",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "ACCD0CC04CF419046A64FB90A480B395",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_VitalPsych",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_VitalPsych",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "37A5752B415AAF3C9B3983BFBE4EA66F",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaMusicPack:MusicPack_173_VitalPsych",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaMusicPack:MusicPack_173_VitalPsych",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "9E3E60BB4F533676292831BF68BD2EB7",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_VitalPsych",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_VitalPsych",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "518E6D2B4B2CA376B3753993C4299A90",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_VitalPsych",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_VitalPsych",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "EC1B59D14E7664625CDEA4B0B19F3EE7",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_VitalPsych",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_VitalPsych",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "A90CC6BD49FEE7D00D931E9CC3A732DE",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaSkyDiveContrail:Contrail_VitalPsych",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaSkyDiveContrail:Contrail_VitalPsych",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "2DBFAE3B4F138A1FFA87DD863B81B14D",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Emoji_S24_VitalPsych",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Emoji_S24_VitalPsych",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "CFE6A309469FEB96E77DD6B878417F3C",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_VitalPsych",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_VitalPsych",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "CCFB6364475CB887DD439A83592E8F3A",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_VitalPsych",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_VitalPsych",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "93B0113A49DDF484608BA882B389D26C",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "FCD91541450DE7A8FE4110BFC7E5DC24",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_VitalPsych",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_VitalPsych",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "80E1081347F72227FC8162831A746A94",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_NitroFlow2",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_NitroFlow2",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "9238756543F61436DBB05FACAAA458DB",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_NitroFlow",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_NitroFlow",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "B9DDB42949AA6AEA8468A1884F849811",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_NitroFlow",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_NitroFlow",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "58D595EE4F1FBFC14DA704858BED1D6A",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "5F645C394A17635F036F3597FC4D05B4",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_NitroFlow",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_NitroFlow",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "35FF805A43082BFD8845E98205ED0FF7",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_NitroFlow",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_NitroFlow",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "31FAF5FC412CA4E97A13AD9C21067D09",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_NitroFlow",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_NitroFlow",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "2079A13B40190B4B12A2A1AD8E6323FA",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_NitroFlow_FaceOff",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_NitroFlow_FaceOff",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "BC82264A45A0B5B30E3F87948276D16C",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_NitroFlow",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_NitroFlow",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "2C9E68324236A85F53E60CACA8379D8C",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaSkyDiveContrail:Contrail_NitroFlow",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaSkyDiveContrail:Contrail_NitroFlow",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "2291AA684B894220A73B64BC2DDE7588",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "HomebaseBannerIcon:BRS24_NitroFlow",
+                                "itemProfile": "common_core",
+                                "itemType": "HomebaseBannerIcon:BRS24_NitroFlow",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "FED56AA144DBF77C08B7F6AA89CFF044",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Emoji_S24_NitroFlow",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Emoji_S24_NitroFlow",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "D20820C14A6E879C0585E3BF264BAC83",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "483FD4AE47D4ED0243A847915646D22F",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_Flourish",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_Flourish",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "4BD5179F497C0F48652C9D84BF3E699F",
+                        "purchaseDate": "2023-04-30T10:55:52.704Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_S23BP_Lineup",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_S23BP_Lineup",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "DAFF1ACA47167105AA9A20BF6AEFC2F9",
+                        "purchaseDate": "2023-04-30T11:15:17.535Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "04DB45874A0E78C0A6E3D38F11B390CD",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "HomebaseBannerIcon:BRS23_Sunlit",
+                                "itemProfile": "common_core",
+                                "itemType": "HomebaseBannerIcon:BRS23_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "1B7D71BB4D53D506816A2E9A5CCBD958",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_Sunlit",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "B17560F9470A1365AA9DBA87CCA106C1",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_Sunlit",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "1F6CB7F6414B66D12DE331A40C43F21B",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_Sunlit",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "5650839D4BB9DCBECB94E88134FB6553",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Emoji_S23_Sunlit",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Emoji_S23_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "D856A9674F3D5CA2D2C3F18F3FF49933",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "C7F3EB0449D0C04C9F684CADD68F4AD9",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Sunlit",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "C8FF62D442BF9A78E10C7D9E3C299B0D",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaSkyDiveContrail:Contrail_Sunlit",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaSkyDiveContrail:Contrail_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "449D02664F14866A439172A219FAD974",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_Sunlit",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "D49DBAF743F0E8BAFA198D89A506935F",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "3DB9F7394C751ABE6778D2A3F0EA902C",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Sunlit",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7195C7144ADE6DDD1A2FE09BC1BB30C0",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_Sunlit",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "972BDEED421538EB32F4FF8E437A304C",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Sunlit",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Sunlit",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "F166D7B4464D880387918EBDD8010EA4",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Venice_Skateboard",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Venice_Skateboard",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "C24F553240AFF27286CCF189917887A3",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_Venice_Skateboard",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_Venice_Skateboard",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "069095F74697694A77E27786BF2571F3",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "93B3BF204A03A8F859AA088334912ACC",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_Venice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_Venice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "2BE83C204D1AD9492617789525B36A1B",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaMusicPack:MusicPack_160_Venice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaMusicPack:MusicPack_160_Venice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "338746F848117AB8A8C848BD54BD46FD",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_Venice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_Venice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "9811A31A4B10491372B7D8AABA07C1EB",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Venice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Venice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7D14866A4D391205E52D2FBBBC2D8EF8",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Venice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Venice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "D7B1588949896A0727F5A6884692EC21",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Venice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Venice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "974CDAC14AFBAC8F3A93C4910B48EC7E",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Emoji_S23_Venice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Emoji_S23_Venice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "1E1028D041EF6DB4BDB73C96D760A024",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_Venice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_Venice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "2DF38FE24B4F4C6C6EDAF2BCF04FB1AB",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "0A485A78478CB66B2A5AC6B695BD71F6",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_Venice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_Venice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "CC9DB67E422286ED5A2787B6AE8CD6B1",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Venice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Venice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "6CE5ACD34503997FE5EA0392C52FCB85",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "0123FBCC4AD045548BEF13A4068DBEE4",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "A61B692449F53B792025B5A30132BC16",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "A14001AE47ADBD1B990D6F9D38BF89F8",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "F5F511E34A2CAC44EDF408844F3436B6",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7AC26B12495E30CCF515AD89DF873CF7",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "9A19637944D98BF6CB0A69BEFED1DADD",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7EA5F24A4AD37CDA5E20ACB085A35BB1",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_S23KeyArt",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_S23KeyArt",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "0FCBE16644A7E0942F0A1A96DCA2EF0B",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaSkyDiveContrail:Contrail_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaSkyDiveContrail:Contrail_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "4BD98AA14100925241741F9337142A07",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "2553902445BBACED276E5C8D3C7B64A5",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "BA772F8E41B28026D05B27AA0DFFF949",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Emoji_S23_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Emoji_S23_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "8FBFD5114B0A527968DAC6B06A304BBE",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "3E8F91D14E4FD4EC02098186998959DC",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_RedPepper",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_RedPepper",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "E8FC62324EAB90D6396298973FD93F34",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Chainmail",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Chainmail",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "D538C16541AA6F467B74CD8C25BAA937",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_Chainmail_Bat",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_Chainmail_Bat",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "729F239146AEAE2F344B08BE30998A55",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Chainmail",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Chainmail",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "84B4801A4E6635B0AD662C85AA4CB39A",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "3C77E908480C5D5D2EEA458B9CE6A8A8",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_Chainmail",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_Chainmail",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "41349B4B4FDDCA0DBF9603893E086C46",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_Chainmail",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_Chainmail",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "6BFD50234FE2B694D0D3C4BFDD88CAAA",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Chainmail",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Chainmail",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "813995B6451FF9C21FF5659DE031F82D",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Chainmail_Bat",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Chainmail_Bat",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "42AD1E9D4DD2D0DD2A7B16BC90B9E65B",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Chainmail",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Chainmail",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "85A793ED49600E51B76657ADD1BAD1E3",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_Chainmail",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_Chainmail",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "295571D641D7A3529B6B02BAFCF0449E",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "HomebaseBannerIcon:BRS23_Chainmail",
+                                "itemProfile": "common_core",
+                                "itemType": "HomebaseBannerIcon:BRS23_Chainmail",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "FD2BAD2547C0CF5ED501E795CCDD1BE3",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "E3092F694A53F036AFD6DA8DD22E3B9B",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaSkyDiveContrail:Contrail_Chainmail",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaSkyDiveContrail:Contrail_Chainmail",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "AF5F63A14079CDB609D0908F7D8FBA09",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Chainmail",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Chainmail",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "1AC6DE2147175BF130C77AA5C3D5B128",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Apprentice_Blue",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Apprentice_Blue",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "4DAD4BF344FFFEFED583C9BCCE58E575",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Apprentice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Apprentice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "24171D284DD9ECDC1C7DE28ABC864EE4",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_Apprentice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_Apprentice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "6F99B7E043634288EAB380B3E72D374D",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "E00638BE4DA3DAB5A7EA18B059F8CBD4",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_Apprentice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_Apprentice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "919CDA474B34E9D88BDB14AB7A49D07D",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_Apprentice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_Apprentice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "577A95304F692CAB09472B80A67755AC",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Apprentice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Apprentice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "C709445B41576932504EA4956416A575",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Apprentice_Forcefield",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Apprentice_Forcefield",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "4B843BD446E23973A4FE8381BFEF53AD",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "HomebaseBannerIcon:BRS23_Apprentice",
+                                "itemProfile": "common_core",
+                                "itemType": "HomebaseBannerIcon:BRS23_Apprentice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "CD3F3645420D6BCC2F990B9DD5585154",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaSkyDiveContrail:Contrail_Apprentice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaSkyDiveContrail:Contrail_Apprentice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "551BA23143C44B2DE41E4480808B5EBA",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "7DA639764976307FE196B4AC92BA8AEC",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_ApprenticeSwirl",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_ApprenticeSwirl",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "6065A36F4091BF4FB021D5AD784DF382",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_Apprentice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_Apprentice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "BDC0BEB747C11413F7736DBB81866370",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Apprentice",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Apprentice",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "90C2C46047E2EBE5C845CCA982A690C2",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_SharpFang_Slash",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_SharpFang_Slash",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "5943D360405A998B931C97827C716295",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_SharpFang",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_SharpFang",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "355B45EB4052F79895A61DB9DE846C7D",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "424157EC41A33100A5E552A836CB942E",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_SharpFang_Sipping",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_SharpFang_Sipping",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "AF0643DE423296D8EC498BA697DA8AAF",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_SharpFang",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_SharpFang",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "454F51D24B90CD1B670B2397D1124C9E",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_SharpFang",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_SharpFang",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "B65641CA4DAC8E3D7CDB3594495054D9",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_SharpFang",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_SharpFang",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "AFBB87E94DC1942DA275BFAF752C6FAA",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_SharpFang_Extra",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_SharpFang_Extra",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "13D0390A4824BEF2FD2E568538E358C6",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_Sharpfang",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_Sharpfang",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "F5B104874F3CFDD90065C0B8A0447778",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Emoji_S23_SharpFang",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Emoji_S23_SharpFang",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "50CCDE094E34DD75C813C3A470FFC6E5",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "B7ED7E8F45E4C4BB0BA99E9C8B74528E",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_SharpFang",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_SharpFang",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "058A0B1048FC3A448A66CAAF0D705D83",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaSkyDiveContrail:Contrail_SharpFang",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaSkyDiveContrail:Contrail_SharpFang",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "085FD38D42C4D32D5274FD8BC1F256EB",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_SharpFang",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_SharpFang",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "36DF67384C5A4600B86B3B973AF46EF0",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Citadel_SwordRaise",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Citadel_SwordRaise",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "2D592E78405F6E7AA455B494DCE2A535",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaMusicPack:MusicPack_161_Citadel",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaMusicPack:MusicPack_161_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "443F2B2A4CC3335374A2BDB270891498",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaBackpack:Backpack_Citadel",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaBackpack:Backpack_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "9DAAB18149BEC3CA06E5189905A5B21C",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Emoji_S23_Citadel",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Emoji_S23_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "F59FD1ED4E91DC1E4616DEB216601246",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "7807CBA245CB8CA4E4F4F49C835A5204",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaItemWrap:Wrap_Citadel",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaItemWrap:Wrap_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "552448C34BC21F552716A7B9F049C157",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaCharacter:Character_Citadel",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaCharacter:Character_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7327DB404A3C4E594A6F5FB0193C76CC",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaLoadingScreen:LoadingScreen_Citadel",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaLoadingScreen:LoadingScreen_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "7D9F382D41D5A6A490D34DA8CD49E30B",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaGlider:Glider_Citadel",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaGlider:Glider_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "E058D27C4FD0435B88ACC98AF13928E8",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:Spray_Citadel",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:Spray_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "8C3AE09D47AD348C6B640F9AB38B2CC6",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "HomebaseBannerIcon:BRS23_Citadel",
+                                "itemProfile": "common_core",
+                                "itemType": "HomebaseBannerIcon:BRS23_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "ED35694A423008EF6D7318B12DE7D0B9",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": true,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaPickaxe:Pickaxe_Citadel",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaPickaxe:Pickaxe_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "2C64D9674CDD1133079A8D913F40A543",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "Currency:MtxGiveaway",
+                                "itemProfile": "common_core",
+                                "itemType": "Currency:MtxGiveaway",
+                                "quantity": 100
+                            }
+                        ],
+                        "offerId": "B8C01A8C41E9F19E3F0445AF44436816",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    },
+                    {
+                        "bIsFreePassReward": false,
+                        "currencyType": "battlestars",
+                        "lootResult": [
+                            {
+                                "itemGuid": "AthenaDance:EID_Citadel",
+                                "itemProfile": "athena",
+                                "itemType": "AthenaDance:EID_Citadel",
+                                "quantity": 1
+                            }
+                        ],
+                        "offerId": "2D92A487464C11BDF472128E3509811C",
+                        "purchaseDate": "2023-04-30T11:15:33.183Z",
+                        "totalCurrencyPaid": 0
+                    }
+                ],
+                "past_seasons": [
+                    {
+                        "seasonNumber": 1,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 2,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 3,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 4,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 5,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 6,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 7,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 8,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 9,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 10,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 11,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 12,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 13,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 14,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 15,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 16,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 17,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 18,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 19,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 20,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 21,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 22,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    },
+                    {
+                        "seasonNumber": 23,
+                        "numWins": 1000000,
+                        "seasonXp": 100000000,
+                        "seasonLevel": 1000,
+                        "bookXp": 100000000,
+                        "bookLevel": 1000,
+                        "purchasedVIP": true
+                    }
+                ]
+            }
+        },
+        "commandRevision": 1
+    }
+}
