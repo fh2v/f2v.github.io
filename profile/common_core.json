@@ -1,0 +1,248 @@
+{
+    "changeType": "fullProfileUpdate",
+    "profile": {
+        "_id": "",
+        "created": "9999-12-31T23:59:59.999Z",
+        "updated": "9999-12-31T23:59:59.999Z",
+        "rvn": 1,
+        "wipeNumber": 0,
+        "accountId": "",
+        "profileId": "common_core",
+        "version": "",
+        "items": {
+            "Currency:MtxPurchased": {
+                "templateId": "Currency:MtxPurchased",
+                "attributes": {
+                  "platform": "EpicPC"
+                },
+                "quantity": 100000000
+            },
+            "HomebaseBannerIcon:standardbanner6": {
+                "templateId": "HomebaseBannerIcon:standardbanner6",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner13": {
+                "templateId": "HomebaseBannerIcon:standardbanner13",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner9": {
+                "templateId": "HomebaseBannerIcon:standardbanner9",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner21": {
+                "templateId": "HomebaseBannerIcon:standardbanner21",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner7": {
+                "templateId": "HomebaseBannerIcon:standardbanner7",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner5": {
+                "templateId": "HomebaseBannerIcon:standardbanner5",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner30": {
+                "templateId": "HomebaseBannerIcon:standardbanner30",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner27": {
+                "templateId": "HomebaseBannerIcon:standardbanner27",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner12": {
+                "templateId": "HomebaseBannerIcon:standardbanner12",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner11": {
+                "templateId": "HomebaseBannerIcon:standardbanner11",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner17": {
+                "templateId": "HomebaseBannerIcon:standardbanner17",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner2": {
+                "templateId": "HomebaseBannerIcon:standardbanner2",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner20": {
+                "templateId": "HomebaseBannerIcon:standardbanner20",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner8": {
+                "templateId": "HomebaseBannerIcon:standardbanner8",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner24": {
+                "templateId": "HomebaseBannerIcon:standardbanner24",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner4": {
+                "templateId": "HomebaseBannerIcon:standardbanner4",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner18": {
+                "templateId": "HomebaseBannerIcon:standardbanner18",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner15": {
+                "templateId": "HomebaseBannerIcon:standardbanner15",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner1": {
+                "templateId": "HomebaseBannerIcon:standardbanner1",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner23": {
+                "templateId": "HomebaseBannerIcon:standardbanner23",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner31": {
+                "templateId": "HomebaseBannerIcon:standardbanner31",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner16": {
+                "templateId": "HomebaseBannerIcon:standardbanner16",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner28": {
+                "templateId": "HomebaseBannerIcon:standardbanner28",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner19": {
+                "templateId": "HomebaseBannerIcon:standardbanner19",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner25": {
+                "templateId": "HomebaseBannerIcon:standardbanner25",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner29": {
+                "templateId": "HomebaseBannerIcon:standardbanner29",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner3": {
+                "templateId": "HomebaseBannerIcon:standardbanner3",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner26": {
+                "templateId": "HomebaseBannerIcon:standardbanner26",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner10": {
+                "templateId": "HomebaseBannerIcon:standardbanner10",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner14": {
+                "templateId": "HomebaseBannerIcon:standardbanner14",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            },
+            "HomebaseBannerIcon:standardbanner22": {
+                "templateId": "HomebaseBannerIcon:standardbanner22",
+                "attributes": {
+                    "item_seen": true
+                },
+                "quantity": 1
+            }
+        },
+        "stats": {
+            "attributes": {
+                "current_mtx_platform": "Epic",
+                "undo_timeout": "min",
+                "allowed_to_send_gifts": true,
+                "allowed_to_receive_gifts": true
+            }
+        },
+        "commandRevision": 1
+    }
+}

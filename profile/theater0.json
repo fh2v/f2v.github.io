@@ -1,0 +1,18 @@
+{
+    "changeType": "fullProfileUpdate",
+    "profile": {
+        "_id": "",
+        "created": "9999-12-31T23:59:59.999Z",
+        "updated": "9999-12-31T23:59:59.999Z",
+        "rvn": 1,
+        "wipeNumber": 0,
+        "accountId": "",
+        "profileId": "theater0",
+        "version": "",
+        "items": {},
+        "stats": {
+            "attributes": {}
+        },
+        "commandRevision": 1
+    }
+}
